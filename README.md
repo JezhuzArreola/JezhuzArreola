@@ -1,7 +1,7 @@
 <h2 align="center"> BIENVENIDO A MI PERFIL </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=163&color=gradient&text=Jezhuz%20Arreola&section=header&reversal=true&textBg=false"/>
 
-  <a href="https://github.com/JezhuzArreola"><img src="https://cardivo.vercel.app/api?name=Jesus&description=Hola,%20soy%20Jesus&image=https://i.imgur.com/9PUeonC.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=jezhuzarss&youtube=KeNy_Dev&pattern=leaf&colorPattern=%23eaeaea" /><a>  
+  <a href="https://github.com/JezhuzArreola"><img src="https://cardivo.vercel.app/api?name=Jesus%20Lisandro%20Arreola&description=Hola,%20soy%20Jesus&image=https://i.imgur.com/9PUeonC.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=jezhuzarss&youtube=KeNy_Dev&pattern=leaf&colorPattern=%23eaeaea" /><a>  
     
 <h3 align="center"> MI INFO </h3>
 <p align="center">
