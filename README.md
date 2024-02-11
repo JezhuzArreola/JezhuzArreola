@@ -5,13 +5,12 @@
     
 <h3 align="center"> MI INFO </h3>
 <p align="center">
-<img src="https://telegra.ph/file/9d6be6de2a522aa30c570.jpg" alt="Jesus" width="2050"/>
+<img src="https://imgur.com/q1WOvP0.jpg" alt="Jesus" width="2050"/>
 </div>
   <div align="center">
   </div>
 <li>
- <b>Nombre:</b> Azami
-</li>
+ <b>Nombre:</b> Jesus L. Arreola R.
 <li>
 <b>Género:</b> Hombre
 </li>
@@ -19,7 +18,7 @@
 <b>Afición:</b> Desarrollar Bots
 </li>
 <li>
-<b>Fecha de nacimiento</b> 2002-02-14
+<b>Fecha de nacimiento</b> 23-12-1995
 </li>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
