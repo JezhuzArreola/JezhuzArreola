@@ -5,7 +5,7 @@
     
 <h3 align="center"> MI INFO </h3>
 <p align="center">
-<img src="https://github.com/JezhuzArreola.png" alt="Jesus" width="2050"/>
+<img src="https://github.com/JezhuzArreola.png" alt="Jesus" width="1080"/>
 </div>
   <div align="center">
   </div>
