@@ -21,7 +21,7 @@
 <b>Fecha de nacimiento</b> 23-12-1995
 </li>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=random&section=footer&reversal=true"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FF00&section=footer&reversal=true"/>
  
   
 </p 
