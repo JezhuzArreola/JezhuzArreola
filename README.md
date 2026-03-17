@@ -78,7 +78,7 @@ Linux User 🐧
 ## 🎧 NOW PLAYING
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_ID&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=true"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31aq5neook3n4zlpk5vklujisqx4&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=true"/>
 </p>
 
 ---
