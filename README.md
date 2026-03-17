@@ -1,46 +1,34 @@
-# ⚡ ACCESS GRANTED ⚡
+# 👋 Hola, soy JezhuzArreola
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0A0A0A,100:00FF99&text=Jezhuz%20Arreola&fontColor=00FF99&animation=fade&fontAlignY=35"/>
-</p>
+![Foto de perfil](https://github.com/JezhuzArreola.png)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&center=true&width=700&lines=Inicializando+SISTEMA...;Verificando+protocolos...;Acceso+concedido...;Cargando+terminal...;Bot+Developer+🤖;Automatización+Activa..."/>
-</p>
+¡Bienvenido a mi GitHub! Soy un desarrollador apasionado por crear soluciones innovadoras y aprender nuevas tecnologías constantemente.
 
----
+## 💻 Tecnologías y herramientas
 
-## 🖥️ TERMINAL PANEL
+- **Lenguajes:** JavaScript, Python, C#  
+- **Frameworks/Librerías:** React, Node.js, Express  
+- **Bases de datos:** MySQL, MongoDB  
+- **Herramientas:** Git, GitHub, Docker, VS Code
 
-```bash
-> whoami
-Jesus Lisandro Arreola
+## 🚀 Proyectos Destacados
 
-> role
-Bot Developer 🤖
+- [Proyecto 1](#) – Descripción breve del proyecto.  
+- [Proyecto 2](#) – Descripción breve del proyecto.  
+- [Proyecto 3](#) – Descripción breve del proyecto.  
 
-> status
-SYSTEM ONLINE 🟢 [█████████---------] 60%
+## 🌱 Actualmente Aprendiendo
 
-> focus
-Automatización / Bots / Scripts
+- Desarrollo avanzado en React y Node.js  
+- Arquitecturas de microservicios  
+- Inteligencia Artificial aplicada a proyectos web
 
-> OS
-Linux / Ubuntu 🐧
+## 📫 Cómo contactarme
 
-> uptime
-~99.9% Sistema estable [███████████-----] 75%
+- ✉️ Email: tuemail@ejemplo.com  
+- 🌐 LinkedIn: [TuPerfilLinkedIn](#)  
+- 🐦 Twitter: [@TuUsuario](#)
 
-> skills
-Python 🐍 [██████████-------] 70%
-JavaScript ⚡ [████████--------] 60%
-Bash / GitHub Actions [██████---------] 50%
+## 📊 Estadísticas de GitHub
 
-> favorite_tool
-ChatGPT 🤖 / VSCode 💻 / GitHub 🚀
-
-> error_log
-❌ Ningún error detectado
-
-> alerts
-🔔 No hay alertas nuevas
+![JezhuzArreola GitHub stats](https://github-readme-stats.vercel.app/api?username=JezhuzArreola&show_icons=true&theme=radical)
