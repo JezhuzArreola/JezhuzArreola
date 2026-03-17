@@ -1,60 +1,53 @@
-<h2 align="center"> BIENVENIDO A MI PERFIL </h2>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=163&color=gradient&text=Jezhuz%20Arreola&section=header&reversal=true&textBg=false"/>
+<h1 align="center">👋 Hola, soy Jesus Arreola</h1>
 
-  <a href="https://i.imgur.com/9PUeonC.jpg"><img src="https://cardivo.vercel.app/api?name=Jesus%20Lisandro%20Arreola&description=Hola,%20BIENVENIDO&image=https://i.imgur.com/9PUeonC.jpg/revisionb/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=jezhuzarss&youtube=KeNy_Dev&pattern=leaf&colorPattern=%23eaeaea" /><a>  
-    
-<h3 align="center"> MI INFO </h3>
 <p align="center">
-<img src="https://github.com/JezhuzArreola.png" alt="Jesus" width="200"/>
-</div>
-  <div align="center">
-  </div>
-<li>
- <b>Nombre:</b> Jesus L. Arreola R.
-<li>
-<b>Género:</b> Hombre
-</li>
-<li>
-<b>Afición:</b> Desarrollar Bots
-</li>
-<li>
-<b>Fecha de nacimiento</b> 23-12-1995
-</li>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Jezhuz%20Arreola&section=header"/>
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FF00&section=footer&reversal=true"/>
- 
-  
-</p 
-</details> 
+<p align="center">
+  <img src="https://github.com/JezhuzArreola.png" width="180" alt="Jesus"/>
+</p>
 
-<!--
-**JezhuzArreola/JezhuzArreola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Nombre:** Jesus Lisandro Arreola  
+- **Género:** Hombre  
+- **Afición:** Desarrollo de bots 🤖  
+- **Nacimiento:** 23/12/1995  
 
- <details> 
-   <summary>ESTADÍSTICAS</summary>
-<h3 align="center"> ESTADÍSTICAS </h3>
+---
 
-![JezhuzArreola GitHub stats](https://github-readme-stats.vercel.app/api?username=JezhuzArreola&theme=midnight-purple&locale=es)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JezhuzArreola&theme=midnight-purple&locale=es)](https://github.com/JezhuzArreola)
-![counter](https://komarev.com/ghpvc/?username=JezhuzArreola&style=flat-square)
-</a>
-</details> 
- 
- <details> 
-   <summary>REPOSITORIOS</summary>
+## 📊 Estadísticas
 
- <h3 align="center"> MI PROYECTOS </h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JezhuzArreola&theme=midnight-purple&locale=es" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JezhuzArreola&theme=midnight-purple&locale=es" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=JezhuzArreola&style=flat-square" />
+</p>
 
-<a href="https://github.com/JezhuzArreola/KeNy-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=JezhuzArreola&repo=KeNy-Bot&theme=midnight-purple&locale=es)</a>
+---
+
+## 🚀 Proyectos Destacados
+
+<p align="center">
+  <a href="https://github.com/JezhuzArreola/KeNy-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JezhuzArreola&repo=KeNy-Bot&theme=midnight-purple&locale=es"/>
+  </a>
+</p>
+
+---
+
+## 📫 Contacto
+
+- Instagram: **@jezhuzarss**
+- YouTube: **KeNy_Dev**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FF00&section=footer"/>
+</p>
