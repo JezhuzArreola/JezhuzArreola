@@ -20,6 +20,22 @@
 
 ---
 
+## 🚀 Mis Skills (Nivel de Dominio Animado)
+
+| Tecnología | Dominio |
+|------------|---------|
+| JavaScript | 🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨 70% |
+| Python     | 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨 60% |
+| C#         | 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨 50% |
+| React      | 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨 60% |
+| Node.js    | 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨 60% |
+| Git        | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 80% |
+| Docker     | 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨 50% |
+
+> Las barras usan 🟩 verde para progreso y 🟨 amarillo para nivel restante, simulando animación visual.
+
+---
+
 ## 🌱 Actualmente Aprendiendo
 
 - Desarrollo avanzado en React y Node.js  
@@ -31,13 +47,20 @@
 ## 📫 Contacto
 
 <p align="left">
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:jlarreolareyes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/arreola_je50379"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/@KeNy_Dev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📈 Estadísticas de GitHub
 
 ![JezhuzArreola GitHub stats](https://github-readme-stats.vercel.app/api?username=JezhuzArreola&show_icons=true&theme=radical)
+
+---
+
+### ⚡ Tips de animación visual:
+- Puedes ir actualizando las barras de progreso con 🟩 y 🟨 conforme mejores tus skills.  
+- Combinar con emojis o gradientes de color da efecto dinámico incluso sin GIFs.  
+- Los badges de herramientas y contacto resaltan tu perfil visualmente.
