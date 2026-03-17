@@ -12,7 +12,7 @@
 
 ## 🖥️ TERMINAL
 
-```bash
+```bash id="jz3n8u"
 > whoami
 Jesus Lisandro Arreola
 
@@ -53,14 +53,6 @@ Linux User 🐧
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JezhuzArreola&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
-## 🐍 LIVE TRACKING
-
-<p align="center">
-  <img src="https://github.com/JezhuzArreola/JezhuzArreola/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
