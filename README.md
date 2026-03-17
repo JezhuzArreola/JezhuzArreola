@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Mis Skills (Nivel de Dominio Animado)
+## 🚀 Mis Skills
 
 | Tecnología | Dominio |
 |------------|---------|
