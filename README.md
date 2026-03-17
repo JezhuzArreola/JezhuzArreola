@@ -29,4 +29,4 @@ Automatización / Bots / Scripts
 Linux / Ubuntu 🐧
 
 > uptime
-~99.9% Sistema estable
+~99.9% Sistema estable.
