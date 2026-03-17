@@ -59,8 +59,3 @@
 ![JezhuzArreola GitHub stats](https://github-readme-stats.vercel.app/api?username=JezhuzArreola&show_icons=true&theme=radical)
 
 ---
-
-### ⚡ Tips de animación visual:
-- Puedes ir actualizando las barras de progreso con 🟩 y 🟨 conforme mejores tus skills.  
-- Combinar con emojis o gradientes de color da efecto dinámico incluso sin GIFs.  
-- Los badges de herramientas y contacto resaltan tu perfil visualmente.
