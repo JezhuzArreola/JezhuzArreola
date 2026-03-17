@@ -1,58 +1,60 @@
-<h2 align="center"> ⚡ SYSTEM ACCESS: GRANTED ⚡ </h2>
+<h2 align="center"> BIENVENIDO A MI PERFIL </h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=163&color=gradient&text=Jezhuz%20Arreola&section=header&reversal=true&textBg=false"/>
 
+  <a href="https://i.imgur.com/9PUeonC.jpg"><img src="https://cardivo.vercel.app/api?name=Jesus%20Lisandro%20Arreola&description=Hola,%20BIENVENIDO&image=https://i.imgur.com/9PUeonC.jpg/revisionb/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=jezhuzarss&youtube=KeNy_Dev&pattern=leaf&colorPattern=%23eaeaea" /><a>  
+    
+<h3 align="center"> MI INFO </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+Mainframe...;Decrypting+Profile...;Accessing+Database...;Welcome+Jezhuz+Arreola" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JezhuzArreola&show_icons=true&theme=terminal&locale=es" alt="Jezhuz Stats" />
+<img src="https://github.com/JezhuzArreola.png" alt="Jesus" width="200"/>
 </div>
+  <div align="center">
+  </div>
+<li>
+ <b>Nombre:</b> Jesus L. Arreola R.
+<li>
+<b>Género:</b> Hombre
+</li>
+<li>
+<b>Afición:</b> Desarrollar Bots
+</li>
+<li>
+<b>Fecha de nacimiento</b> 23-12-1995
+</li>
 
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FF00&section=footer&reversal=true"/>
+ 
+  
+</p 
+</details> 
 
-### 🖥️ [LOG_USER_DATA]
+<!--
+**JezhuzArreola/JezhuzArreola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center">
-  <img src="https://github.com/JezhuzArreola.png" alt="Jesus" width="160" style="border-radius: 50%; border: 3px solid #00FF00;"/>
-</p>
+Here are some ideas to get you started:
 
-<div align="center">
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-| CRITICAL_DATA | VALUE_STRING |
-| :--- | :--- |
-| **USER** | Jesus L. Arreola R. |
-| **ROLE** | Bot & System Developer |
-| **STATUS** | Online / Stealth Mode |
+ <details> 
+   <summary>ESTADÍSTICAS</summary>
+<h3 align="center"> ESTADÍSTICAS </h3>
 
-</div>
+![JezhuzArreola GitHub stats](https://github-readme-stats.vercel.app/api?username=JezhuzArreola&theme=midnight-purple&locale=es)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JezhuzArreola&theme=midnight-purple&locale=es)](https://github.com/JezhuzArreola)
+![counter](https://komarev.com/ghpvc/?username=JezhuzArreola&style=flat-square)
+</a>
+</details> 
+ 
+ <details> 
+   <summary>REPOSITORIOS</summary>
 
----
+ <h3 align="center"> MI PROYECTOS </h3>
 
-### 🛠️ KERNEL TOOLS (SKILLS)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🌐 SECURE CHANNELS
-
-<p align="center">
-  <a href="https://instagram.com/jezhuzarrs" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@KeNy_Dev" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🕹️ TERMINAL_GAME: SNAKE
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JezhuzArreola/JezhuzArreola/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+<a href="https://github.com/JezhuzArreola/KeNy-bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=JezhuzArreola&repo=KeNy-Bot&theme=midnight-purple&locale=es)</a>
