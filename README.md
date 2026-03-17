@@ -1,39 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=code&color=00ff00&height=200&section=header&text=ACCESS_GRANTED:_JEZHUZARREOLA&fontSize=40&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=ws&color=00ff00&height=250&section=header&text=JEZHUZARREOLA&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark&bgImg=https://raw.githubusercontent.com/mayhemantt/mayhemantt/main/assets/matrix.gif" width="100%" />
 
-# ⚡ [ SYSTEM STATUS: ACTIVE ] ⚡
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;WhatsApp+Bot+Expert;Industrial+Maintenance+Systems;Automation+%26+Control+Specialist)](https://git.io/typing-svg)
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/JezhuzArreola.png" width="150" style="border-radius: 50%; border: 3px solid #00FF41; box-shadow: 0 0 15px #00FF41;" alt="JezhuzArreola Avatar" />
+    </td>
+    <td align="left">
+      <h1>👋 [ SYSTEM ACCESS GRANTED ]</h1>
+      <h2>Hola, soy Jesus L. Arreola</h2>
+      <p>Bienvenido a mi terminal personal. Soy un desarrollador Full Stack apasionado por la automatización y los sistemas críticos.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=JavaScript+%26+Node.js;WhatsApp+Bot+Developer;Industrial+Process+Control;Python+Automation;BMS+Systems)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🌑 Root Directory
-- **Identidad:** Jesus L. Arreola
+### 📂 Root Directory
 - **Ubicación:** 🇲🇽 México
-- **Enfoque:** Creación de soluciones innovadoras y automatización industrial.
-- **Log:** Compilando nuevas ideas y optimizando procesos críticos...
+- **Estado:** Ejecutando subrutinas de optimización y aprendizaje continuo.
+- **Log de Eventos:** Compilando proyectos de alto impacto, enfocados en eficiencia y control industrial.
 
 ---
 
-### 🛠️ Tech Stack (Hacker Edition)
+### 🛠️ Tech Stack (Hacker Palette)
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/WhatsApp_Bots-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Industrial_Systems-000000?style=for-the-badge&logo=engineering&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Industrial_Automation-000000?style=for-the-badge&logo=engineering&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
 </p>
-
----
-
-### 📂 Proyectos de Alto Impacto
-* **[KeNy-Bot](https://github.com/JezhuzArreola/KeNy-Bot):** Super Bot de WhatsApp desarrollado en JavaScript.
-* **[LoginSiga](https://github.com/JezhuzArreola/LoginSiga):** Interfaz de acceso optimizada con CSS.
-* **[ZamasuBot](https://github.com/JezhuzArreola/ZamasuBot):** Automatización avanzada mediante JS.
 
 ---
 
@@ -50,12 +58,3 @@
 <a href="https://github.com/JezhuzArreola">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
 </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update-Snake/out/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JezhuzArreola&color=00ff41&style=flat-square&label=SYSTEM+VISITS" alt="Views" />
-</div>
