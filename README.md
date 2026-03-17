@@ -11,11 +11,15 @@
 - **Bases de datos:** MySQL, MongoDB  
 - **Herramientas:** Git, GitHub, Docker, VS Code
 
-## 🚀 Proyectos Destacados
+## 🚀 Mis Repositorios Destacados
 
-- [Proyecto 1](#) – Descripción breve del proyecto.  
-- [Proyecto 2](#) – Descripción breve del proyecto.  
-- [Proyecto 3](#) – Descripción breve del proyecto.  
+Aquí algunos de mis repositorios más interesantes:
+
+- [**Repositorio 1**](https://github.com/JezhuzArreola/Repo1) – Descripción breve del proyecto.  
+- [**Repositorio 2**](https://github.com/JezhuzArreola/Repo2) – Descripción breve del proyecto.  
+- [**Repositorio 3**](https://github.com/JezhuzArreola/Repo3) – Descripción breve del proyecto.  
+
+> Puedes ver todos mis repositorios aquí: [JezhuzArreola GitHub](https://github.com/JezhuzArreola?tab=repositories)
 
 ## 🌱 Actualmente Aprendiendo
 
