@@ -1,46 +1,61 @@
-# 👋 Hola, soy JezhuzArreola
+<div align="center">
 
-![Foto de perfil](https://github.com/JezhuzArreola.png)
+<img src="https://capsule-render.vercel.app/render?type=code&color=00ff00&height=200&section=header&text=ACCESS_GRANTED:_JEZHUZARREOLA&fontSize=40&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" />
 
-¡Bienvenido a mi GitHub! Soy un desarrollador apasionado por crear soluciones innovadoras y aprender nuevas tecnologías constantemente.  
+# ⚡ [ SYSTEM STATUS: ACTIVE ] ⚡
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;WhatsApp+Bot+Expert;Industrial+Maintenance+Systems;Automation+%26+Control+Specialist)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 💻 Tecnologías y Herramientas
+### 🌑 Root Directory
+- **Identidad:** Jesus L. Arreola
+- **Ubicación:** 🇲🇽 México
+- **Enfoque:** Creación de soluciones innovadoras y automatización industrial.
+- **Log:** Compilando nuevas ideas y optimizando procesos críticos...
+
+---
+
+### 🛠️ Tech Stack (Hacker Edition)
 
 <p align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/WhatsApp_Bots-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Industrial_Systems-000000?style=for-the-badge&logo=engineering&logoColor=00FF41" />
 </p>
 
 ---
 
-## 🚀 Mis Skills
-
-| Tecnología | Dominio |
-|------------|---------|
-| JavaScript | 🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨 70% |
-| Python     | 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨 60% |
-| C#         | 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨 50% |
-| React      | 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨 60% |
-| Node.js    | 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨 60% |
-| Git        | 🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 80% |
-| Docker     | 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨 50% |
-
-> Las barras usan 🟩 verde para progreso y 🟨 amarillo para nivel restante, simulando animación visual.
+### 📂 Proyectos de Alto Impacto
+* **[KeNy-Bot](https://github.com/JezhuzArreola/KeNy-Bot):** Super Bot de WhatsApp desarrollado en JavaScript.
+* **[LoginSiga](https://github.com/JezhuzArreola/LoginSiga):** Interfaz de acceso optimizada con CSS.
+* **[ZamasuBot](https://github.com/JezhuzArreola/ZamasuBot):** Automatización avanzada mediante JS.
 
 ---
 
-## 📂 Proyectos Destacados
+### 📊 System Analytics
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JezhuzArreola&show_icons=true&theme=neon&hide_border=true&include_all_commits=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JezhuzArreola&layout=compact&theme=neon&hide_border=true" />
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Proyecto 1</h3>
-      <p>Descripción breve del proyecto. Puedes mencionar el problema principal que resolviste aquí.</p>
-      <p><b>Stack:</b> React, Node.js, Docker</p>
+---
+
+### 🛡️ Firewall & Contact
+<p align="center">
+<a href="https://github.com/JezhuzArreola">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
+</a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update-Snake/out/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JezhuzArreola&color=00ff41&style=flat-square&label=SYSTEM+VISITS" alt="Views" />
+</div>
