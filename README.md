@@ -2,36 +2,41 @@
 
 ![Foto de perfil](https://github.com/JezhuzArreola.png)
 
-¡Bienvenido a mi GitHub! Soy un desarrollador apasionado por crear soluciones innovadoras y aprender nuevas tecnologías constantemente.
+¡Bienvenido a mi GitHub! Soy un desarrollador apasionado por crear soluciones innovadoras y aprender nuevas tecnologías constantemente.  
 
-## 💻 Tecnologías y herramientas
+---
 
-- **Lenguajes:** JavaScript, Python, C#  
-- **Frameworks/Librerías:** React, Node.js, Express  
-- **Bases de datos:** MySQL, MongoDB  
-- **Herramientas:** Git, GitHub, Docker, VS Code
+## 💻 Tecnologías y Herramientas
 
-## 🚀 Mis Repositorios Destacados
+<p align="left">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-Aquí algunos de mis repositorios más interesantes:
-
-- [**Repositorio 1**](https://github.com/JezhuzArreola/Repo1) – Descripción breve del proyecto.  
-- [**Repositorio 2**](https://github.com/JezhuzArreola/Repo2) – Descripción breve del proyecto.  
-- [**Repositorio 3**](https://github.com/JezhuzArreola/Repo3) – Descripción breve del proyecto.  
-
-> Puedes ver todos mis repositorios aquí: [JezhuzArreola GitHub](https://github.com/JezhuzArreola?tab=repositories)
+---
 
 ## 🌱 Actualmente Aprendiendo
 
 - Desarrollo avanzado en React y Node.js  
 - Arquitecturas de microservicios  
-- Inteligencia Artificial aplicada a proyectos web
+- Inteligencia Artificial aplicada a proyectos web  
 
-## 📫 Cómo contactarme
+---
 
-- ✉️ Email: tuemail@ejemplo.com  
-- 🌐 LinkedIn: [TuPerfilLinkedIn](#)  
-- 🐦 Twitter: [@TuUsuario](#)
+## 📫 Contacto
+
+<p align="left">
+  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
+
+---
 
 ## 📊 Estadísticas de GitHub
 
