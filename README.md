@@ -1,53 +1,119 @@
-<h1 align="center">👋 Hola, soy Jesus Arreola</h1>
+# ⚡ ACCESS GRANTED ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Jezhuz%20Arreola&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:00FF00&text=Jezhuz%20Arreola&fontColor=00FF00&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/JezhuzArreola.png" width="180" alt="Jesus"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=650&lines=Inicializando+sistema...;Acceso+concedido...;Bot+Developer+🤖;Automatizando+el+mundo...;Bienvenido+a+mi+red" />
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🖥️ TERMINAL
 
-- **Nombre:** Jesus Lisandro Arreola  
-- **Género:** Hombre  
-- **Afición:** Desarrollo de bots 🤖  
-- **Nacimiento:** 23/12/1995  
+```bash
+> whoami
+Jesus Lisandro Arreola
+
+> role
+Bot Developer 🤖
+
+> status
+ONLINE 🟢
+
+> focus
+Automatización / Bots / Scripts
+
+> system
+Linux User 🐧
+```
 
 ---
 
-## 📊 Estadísticas
+## ⚙️ STACK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JezhuzArreola&theme=midnight-purple&locale=es" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,git,github,linux,vscode,bash" />
+</p>
+
+---
+
+## 📡 SYSTEM STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JezhuzArreola&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JezhuzArreola&theme=midnight-purple&locale=es" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=JezhuzArreola&style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JezhuzArreola&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🔥 ACTIVITY LOG
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JezhuzArreola&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 LIVE TRACKING
+
+<p align="center">
+  <img src="https://github.com/JezhuzArreola/JezhuzArreola/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 📂 PROJECTS
 
 <p align="center">
   <a href="https://github.com/JezhuzArreola/KeNy-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JezhuzArreola&repo=KeNy-Bot&theme=midnight-purple&locale=es"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JezhuzArreola&repo=KeNy-Bot&theme=chartreuse-dark&hide_border=true"/>
   </a>
 </p>
 
 ---
 
-## 📫 Contacto
+## 🏆 ACHIEVEMENTS
 
-- Instagram: **@jezhuzarss**
-- YouTube: **KeNy_Dev**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JezhuzArreola&theme=matrix&no-frame=true"/>
+</p>
+
+---
+
+## 🎧 NOW PLAYING
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_ID&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=true"/>
+</p>
+
+---
+
+## 📡 CONTACT
+
+<p align="center">
+  <a href="https://instagram.com/jezhuzarss">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00"/>
+  </a>
+  <a href="https://youtube.com/@KeNy_Dev">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF00"/>
+  </a>
+</p>
+
+---
+
+## 👁️ VISITORS
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JezhuzArreola&style=for-the-badge&color=00ff00"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FF00&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,100:00FF00&section=footer"/>
 </p>
+
+<h3 align="center">> SYSTEM ONLINE_</h3>
